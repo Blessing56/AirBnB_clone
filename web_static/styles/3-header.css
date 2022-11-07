@@ -1,12 +1,13 @@
 header {
-	baackground-color: white;
+	background-color: white;
 	height: 70px;
 	width: 100%;
-	border bottom 1px #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
 }
 
 .logo{
 	background-image: url(../images/logo.png);
+	position: absolute;
 	height: 55px;
 	width: 130px;
 	left: 20px;
